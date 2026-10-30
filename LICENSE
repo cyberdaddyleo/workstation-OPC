@@ -1,0 +1,139 @@
+开发者工作台 个人免费使用许可协议（商业使用需授权）
+Developer Workbench Personal Use License (Commercial Use Requires Authorization)
+
+版本 1.0　·　2026 年 10 月
+Copyright (c) 2026 赛博老爸（@赛博老爸）. All rights reserved except as expressly granted below.
+
+本协议中文版本与英文版本如有不一致，以中文版本为准。
+In case of any conflict between the Chinese and English versions, the Chinese version prevails.
+
+======================================================================
+中文版
+======================================================================
+
+一、定义
+
+1. 「本软件」：指「开发者工作台」及其源代码、页面、美术与图形设计、文档、示例数据、截图，以及随附的 ai-proxy.js 等全部文件，包括作者此后发布的更新版本。
+2. 「作者」：指赛博老爸（@赛博老爸），本软件的著作权人。
+3. 「个人使用」：指自然人以个人身份，为自己的学习、研究、工作或个人项目管理使用本软件。独立开发者用本软件管理自己的项目、收入和资料，属于个人使用。
+4. 「商业使用」：指以下任何一种情形（无论是否盈利、是否收费）：
+   (1) 出售、出租、付费分发本软件或其修改版、衍生作品；
+   (2) 将本软件或其修改版、衍生作品打包进付费产品、付费课程、付费社群、会员资源或其他付费内容中；
+   (3) 以本软件或其修改版、衍生作品对外提供服务，包括但不限于 SaaS、托管服务、在线工具、付费部署服务；
+   (4) 由公司、团队、工作室、机构或其他组织在内部部署，供多人使用；
+   (5) 为客户定制、部署、安装本软件并收取费用；
+   (6) 在广告、引流、营销活动中使用本软件或其修改版作为获利手段；
+   (7) 其他以直接或间接获取商业利益为目的的使用。
+
+二、个人使用授权（免费）
+
+在遵守本协议全部条款的前提下，作者授予你一项免费、非独占、不可转让、可撤销的许可，你可以：
+1. 个人使用本软件；
+2. 学习、研究、修改本软件的源代码，并为个人使用目的进行二次开发；
+3. 免费分享本软件的原始版本或修改版，但必须同时满足：
+   (1) 完整保留本协议文件（LICENSE）；
+   (2) 完整保留软件中的作者署名和「Developed by @赛博老爸」开发者水印；
+   (3) 不收取任何费用，也不附加任何收费条件；
+   (4) 如为修改版，须明确注明「本版本由他人修改，非作者原版」及主要改动内容。
+
+三、商业使用须取得授权
+
+1. 任何商业使用，都必须事先取得作者的书面授权（包括电子形式的书面授权）。
+2. 商业授权的范围、期限和费用由作者与你另行约定。
+3. 未取得授权的商业使用，构成对作者著作权的侵犯。
+4. 申请商业授权：请在本软件的 GitHub 仓库提交 Issue 说明用途，或在各平台搜索「赛博老爸」私信联系。
+
+四、禁止事项
+
+无论是否为商业使用，均不得：
+1. 删除、遮挡、修改本软件中的作者署名、「Developed by @赛博老爸」开发者水印或本协议；
+2. 以自己或他人的名义重新发布本软件，或声称自己是本软件的作者；
+3. 使用「赛博老爸」名称、标识，或以可能让人误以为得到作者认可、合作或背书的方式进行宣传；
+4. 将本软件用于任何违反法律法规的用途。
+
+五、数据与第三方服务
+
+1. 本软件在用户本人的浏览器中运行，数据保存在用户本机，作者不收集、不存储、也无法访问用户的任何数据。
+2. 用户自行配置并使用的第三方服务（包括各类 AI 接口、托管平台、被检测的网站等），其费用、可用性、内容和数据处理由用户与该第三方自行负责。
+3. 用户应自行妥善保管备份文件、资料柜密码以及存入本软件的证书、私钥等敏感文件。
+
+六、免责声明
+
+本软件按「现状」提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性、准确性和不侵权的担保。
+在法律允许的最大范围内，对于因使用或无法使用本软件造成的任何直接或间接损失，包括但不限于数据丢失（例如清理浏览器数据、忘记资料柜密码）、业务中断、第三方服务费用、AI 生成内容错误、证书或密钥泄露，作者均不承担责任。
+
+七、协议终止
+
+如你违反本协议任何条款，本协议授予你的全部权利自动终止。终止后你应停止使用并删除本软件的全部副本；作者保留依法追究责任的权利。
+
+八、其他
+
+1. 作者保留本协议未明确授予的全部权利。
+2. 作者可以发布本协议的新版本；新版本仅适用于其发布之后获得的本软件版本。
+3. 本协议适用中华人民共和国法律（为本协议之目的，不包括香港、澳门特别行政区和台湾地区法律）。
+
+======================================================================
+English Version
+======================================================================
+
+1. Definitions
+
+1.1 "Software" means "Developer Workbench" (开发者工作台), including its source code, pages, artwork and graphic design, documentation, sample data, screenshots, and all accompanying files such as ai-proxy.js, as well as any later versions released by the Author.
+1.2 "Author" means 赛博老爸 (@赛博老爸), the copyright holder of the Software.
+1.3 "Personal Use" means use of the Software by a natural person, in a personal capacity, for their own learning, research, work, or management of their own projects. An independent developer using the Software to manage their own projects, revenue and documents is Personal Use.
+1.4 "Commercial Use" means any of the following, whether or not for profit and whether or not a fee is charged:
+  (a) selling, renting, or distributing for a fee the Software or any modified version or derivative work;
+  (b) bundling the Software or any modified version or derivative work into a paid product, paid course, paid community, membership resource or other paid content;
+  (c) providing services based on the Software or any modified version or derivative work, including but not limited to SaaS, hosting, online tools, or paid deployment services;
+  (d) internal deployment by a company, team, studio, institution or other organization for use by multiple people;
+  (e) customizing, deploying or installing the Software for clients for a fee;
+  (f) using the Software or any modified version as a means of profit in advertising, lead generation or marketing campaigns;
+  (g) any other use intended to obtain direct or indirect commercial benefit.
+
+2. Personal Use License (Free)
+
+Subject to all terms of this License, the Author grants you a free, non-exclusive, non-transferable, revocable license to:
+  (a) use the Software for Personal Use;
+  (b) study, research and modify the source code, and create derivative works for Personal Use;
+  (c) share the original or modified Software free of charge, provided that you:
+      (i) keep this License file (LICENSE) intact;
+      (ii) keep the Author attribution and the "Developed by @赛博老爸" watermark in the Software intact;
+      (iii) charge no fee and attach no paid conditions; and
+      (iv) for modified versions, clearly state "This version has been modified by others and is not the Author's original version" together with a summary of the main changes.
+
+3. Commercial Use Requires Authorization
+
+3.1 Any Commercial Use requires prior written authorization from the Author (written authorization in electronic form is acceptable).
+3.2 The scope, term and fees of a commercial license shall be agreed separately between you and the Author.
+3.3 Commercial Use without authorization infringes the Author's copyright.
+3.4 To request a commercial license, open an Issue in the Software's GitHub repository describing your intended use, or contact "赛博老爸" by direct message on any public platform.
+
+4. Prohibited Acts
+
+Whether or not for Commercial Use, you may not:
+  (a) remove, obscure or alter the Author attribution, the "Developed by @赛博老爸" watermark, or this License;
+  (b) republish the Software under your own or another person's name, or claim to be its author;
+  (c) use the name or marks of "赛博老爸", or promote anything in a way that suggests endorsement, partnership or approval by the Author;
+  (d) use the Software for any unlawful purpose.
+
+5. Data and Third-Party Services
+
+5.1 The Software runs in the user's own browser and stores data on the user's own device. The Author does not collect or store, and cannot access, any user data.
+5.2 Third-party services configured and used by the user (including AI APIs, hosting platforms, and monitored websites) are the responsibility of the user and the respective third party, including their fees, availability, content and data handling.
+5.3 Users are responsible for safekeeping their backup files, vault password, and any certificates, private keys or other sensitive files stored in the Software.
+
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT OR INDIRECT DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO DATA LOSS (E.G. CLEARING BROWSER DATA OR FORGETTING THE VAULT PASSWORD), BUSINESS INTERRUPTION, THIRD-PARTY SERVICE FEES, ERRORS IN AI-GENERATED CONTENT, OR LEAKAGE OF CERTIFICATES OR KEYS.
+
+7. Termination
+
+If you breach any term of this License, all rights granted to you terminate automatically. Upon termination you must stop using and delete all copies of the Software. The Author reserves the right to pursue legal remedies.
+
+8. Miscellaneous
+
+8.1 The Author reserves all rights not expressly granted in this License.
+8.2 The Author may publish new versions of this License; a new version applies only to versions of the Software obtained after its publication.
+8.3 This License is governed by the laws of the People's Republic of China (for the purpose of this License, excluding the laws of the Hong Kong SAR, the Macao SAR and Taiwan).
+
+Developed by @赛博老爸
